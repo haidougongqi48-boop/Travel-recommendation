@@ -1,5 +1,6 @@
 # Travel-recommendation
 旅行先レコメンドAI
+https://travel-recommendation-in-japan.streamlit.app
 
 全国1728市区町村の統計データ・土地利用データ・観光来訪者数を組み合わせ、旅行のタイプ（海でのんびり、都会で街歩きなど）に合う地域を推薦するWebアプリです。
 
